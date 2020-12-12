@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "got": "^10.0.4",
-    "ini": "^1.3.5",
+    "ini": "^1.3.6",
     "js-yaml": "^3.13.1"
   },
   "devDependencies": {
